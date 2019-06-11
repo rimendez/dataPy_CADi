@@ -2,7 +2,7 @@
 
 This repository contains the materials for the **Data acquisition, wrangling and exploratory analysis in Python**, three days intensive [CADi](http://sitios.itesm.mx/va/capacitacion/1_2.html) (["Cursos de Actualización en las Disciplinas"](http://sitios.itesm.mx/va/capacitacion/1_2.html)) for faculty members at ["Tecnológico de Monterrey"](https://tec.mx/es) Institute.
 
-The course covers subjects include the parsing and handling of data from different social sources, as well as the use of current frameworks for data-driven analyses.<br>
+The course covers subjects include the parsing and handling of data from different social sources, as well as the use of current frameworks for data-driven analyses.<br> el giga
 
 
 
